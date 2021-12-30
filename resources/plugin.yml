@@ -1,0 +1,10 @@
+name: GameStatistics
+main: ru.owopeef.gamestatistics.Main
+author: owoPeef
+website: https://github.com/owoPeef/GameStatistics
+version: 0.5
+commands:
+  game_stats:
+    description: Game Statistics commands.
+    usage: /<command>
+    aliases: [gs, g_s, game_s, g_stats, game_statistics]

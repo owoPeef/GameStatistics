@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GameStatistics">
+    <output-path>$PROJECT_DIR$/../../../MyFiles/_server/_PluginsBuilds</output-path>
+    <root id="archive" name="GameStatistics.jar">
+      <element id="module-output" name="GameStatistics" />
+    </root>
+  </artifact>
+</component>
